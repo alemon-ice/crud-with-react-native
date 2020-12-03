@@ -1,0 +1,46 @@
+{
+    "wishes": [
+        {
+            "id": 1,
+            "name": "pedido1",
+            "status": "Entregue",
+            "frigorifico_id": 1,
+            "usuario_id": 1
+        },
+        {
+            "id": 2,
+            "name": "pedido2",
+            "status": "Faturado",
+            "frigorifico_id": 1,
+            "usuario_id": 1
+        },
+        {
+            "id": 3,
+            "name": "pedido3",
+            "status": "Pago",
+            "frigorifico_id": 1,
+            "usuario_id": 1
+        },
+        {
+            "id": 4,
+            "name": "pedido4",
+            "status": "Recebido",
+            "frigorifico_id": 1,
+            "usuario_id": 1
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "username": "alemon",
+            "password": "123456",
+            "frigorifico_id": 1
+        }
+    ],
+    "frigorificos": [
+        {
+            "id": 1,
+            "name": "frigoFood"
+        }
+    ]
+}
